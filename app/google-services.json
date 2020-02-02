@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "263829421345",
+    "firebase_url": "https://enretrospectiva-e3ba2.firebaseio.com",
+    "project_id": "enretrospectiva-e3ba2",
+    "storage_bucket": "enretrospectiva-e3ba2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263829421345:android:cbeba7005cd71a53841260",
+        "android_client_info": {
+          "package_name": "com.psicologia.pandroide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263829421345-hhii3j6ig9d0avgt5h77tenfku35ks7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.psicologia.pandroide",
+            "certificate_hash": "a93180d7a02a322fff4c7e7c7ec67b47e2440262"
+          }
+        },
+        {
+          "client_id": "263829421345-n9uc3vckpikgn3e9renlvebkb8nnllrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTMoHmEa3iPB5WJ9JirLfdqwzgPFoJuPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263829421345-n9uc3vckpikgn3e9renlvebkb8nnllrt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
